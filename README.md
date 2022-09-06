@@ -11,7 +11,7 @@
 |    前端   | 後端       | 雲端 |
 | -------- | --------| -------- |
 | VUE3     |Python-Flask|AWS EC2(Ubantu 20.04)
-  VUEX     |SocketIO|Nginx|
+  VUEX     |Flask-SocketIO|Nginx|
   less
 
 
